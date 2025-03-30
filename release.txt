@@ -1,1 +1,1 @@
-Built from v1.0.11-0-gbd605b30
+Built from v1.0.12-0-g60474b5f
